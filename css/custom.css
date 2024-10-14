@@ -1,0 +1,31 @@
+.row>[class^=col] 
+{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: rgb(221, 180, 105);
+    border: 1px solid rgba(228, 75, 15, 0.4);
+}
+
+.row 
+{
+    margin-top: 0.25em;
+}
+
+.sample-bgcolor 
+{
+    background-color: rgba(182, 89, 27, 0.25);
+}
+
+.bg-primary
+{
+    background-color: rgb(73, 52, 42) !important;
+}
+
+body 
+{
+    background-color: rgb(187, 112, 77);
+}
+header
+{
+    padding-bottom: 3em;
+}
